@@ -4,7 +4,7 @@ There are two parts to your lab assignment, and each is in a different assignmen
 
 ### First Part: Before the next class
 
-Put finishing touches on your About Me project and get it deployed. The more time you spend with this, the better you'll get at CSS, but keep in mind that you also have readings to do and need to get some rest and relaxation in as well! The next project we will start is challenging, so be sure to come into it refreshed and ready.
+Put finishing touches on your About Me project and get it deployed, following the[GitHub Pages] directions on how to publish the `master` branch of your site so it's available at yourusername.github.io/about-me. The more time you spend working on your About Me site, the better you'll get at CSS, but keep in mind that you also have readings to do and need to get some rest and relaxation in as well! The next project we will start is challenging, so be sure to come into it refreshed and ready.
 
 ---
 
